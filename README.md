@@ -5,18 +5,20 @@ This dashboard provides a visual representation of email marketing campaign perf
 
 
 Data Fields:
-Gender
-Active User Status
-Marital Status
-Living Status
-State
-City
-Signup Year
-Signup Time
+1) Gender
+2) Active User Status
+3) Marital Status
+4) Living Status
+5) State
+6) City
+7) Signup Year 
+8) Signup Time
+
 Dashboard Components
 The dashboard comprises the following sections:
 
 Overview: Provides a high-level summary of key metrics, including total active users, married enrollments, and the number of people from Maharashtra.
+
 People Signed Up By:
 Gender: Pie chart showing the distribution of male, female, and other genders.
 Activity Status: Bar chart comparing active and inactive users.
@@ -26,5 +28,6 @@ State: Pie chart displaying the top states with the highest number of signups.
 City: Bar chart representing the top cities with the highest number of signups.
 Year: Line chart showing the trend of signups over the years.
 Time: Histogram visualizing the distribution of signups across different time periods.
-Tools and Technologies
-[Specify the tools and technologies used to create the dashboard, e.g., Python, Plotly, Tableau, Power BI]
+
+Tools and Technologies: 
+Python, Plotly, Power BI
